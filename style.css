@@ -48,11 +48,12 @@ body {
   padding: 10px;
   position: relative;
   width: 71%;
+  
 }
 
 .text-box p {
   margin: 0;
-  text-align: left;
+  text-align: justify;
 }
 
 .text-box span {
